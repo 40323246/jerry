@@ -8,4 +8,16 @@
 &lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest2.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/n0UZU4wuQbJ12mCW"width="450"height="450"&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+&lt;p&gt;&lt;img src="https://copy.com/n0UZU4wuQbJ12mCW"width="450"height="450"&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業二</title><link href="http://example.com/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-11-04T11:41:00+08:00</updated><author><name>40323246</name></author><id>tag:example.com,2015-11-04:2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest2.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/n0UZU4wuQbJ12mCW"width="450"height="450"&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業三</title><link href="http://example.com/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-11-04T11:41:00+08:00</updated><author><name>40323246</name></author><id>tag:example.com,2015-11-04:2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/83JwTZHQ60Pt8ynR"width="450"height="450"&gt;
+&lt;img src="https://copy.com/utzWP3HI0pL8vTlm"width="450"height="450"&gt;
+&lt;img src="https://copy.com/o81sYQSzBwGCp6D3"width="450"height="450"&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
