@@ -284,7 +284,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -299,7 +299,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151106181751.1"><vh>@clean simplest2.html</vh>
+<v t="leo.20151106181751.1" a="E"><vh>@clean simplest2.html</vh>
 <v t="leo.20151106181751.2"><vh>檔案說明</vh></v>
 <v t="leo.20151106181751.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151106181751.4" a="E"><vh>body 標註</vh>
@@ -2023,7 +2023,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
     &lt;h1&gt;心得和評分&lt;/h1&gt;
-    &lt;p&gt;老師上課非常用心也謝謝同學大家的幫,我給自己評分:79分&lt;/p&gt;
+    &lt;p&gt;老師上課非常用心也謝謝同學大家的幫,我給自己評分:75分&lt;/p&gt;
 		
 </t>
 <t tx="amd.20150915211351.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
